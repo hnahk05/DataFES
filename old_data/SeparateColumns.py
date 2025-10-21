@@ -22,5 +22,3 @@ for _, row in df.iterrows():
 lines_df = pd.DataFrame(lines)
 
 lines_df.to_csv("invoice_lines.csv", index=False, encoding="utf-8-sig")
-
-print("Da tao file invoice_lines.csv")

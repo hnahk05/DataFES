@@ -38,5 +38,3 @@ grn["qty"] = pd.to_numeric(grn["qty"], errors="coerce")
 grn["date"] = pd.to_datetime(grn["date"], errors="coerce")
 
 grn.to_csv("grn_clean.csv", index=False)
-
-print("Da chuan hoa po.csv va grn.csv")
