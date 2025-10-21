@@ -12,6 +12,7 @@ for _, row in df.iterrows():
             "vendor": row["vendor"],
             "invoice_no": row["invoice_no"],
             "po_no": row["po_no"],
+            "invoice_date": row.get("invoice_date", ""),
             "sku": item["sku"],
             "desc": item["desc"],
             "qty_billed": item["qty_billed"],

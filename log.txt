@@ -1,0 +1,9 @@
+=== DUPLICATE LINE LOG ===
+GreenSupply Ltd. | INV-986 | PO: PO-2025-115 | SKU: ITEM-INK | DUPLICATE | Ngày gốc: 
+TechStore JSC | INV-706 | PO: PO-2025-119 | SKU: ITEM-SWITCH8 | DUPLICATE | Ngày gốc: 
+=== DUPLICATE LINE LOG ===
+GreenSupply Ltd. | INV-986 | PO: PO-2025-115 | SKU: ITEM-INK | DUPLICATE | Ngày bị trùng: 2025-02-04
+TechStore JSC | INV-706 | PO: PO-2025-119 | SKU: ITEM-SWITCH8 | DUPLICATE | Ngày bị trùng: 2025-03-03
+=== DUPLICATE LINE LOG ===
+GreenSupply Ltd. | INV-986 | PO: PO-2025-115 | SKU: ITEM-INK | DUPLICATE | Ngày bị trùng: 2025-02-04
+TechStore JSC | INV-706 | PO: PO-2025-119 | SKU: ITEM-SWITCH8 | DUPLICATE | Ngày bị trùng: 2025-03-03
